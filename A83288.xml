@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament; for the upholding the government and fellowship of merchants of England trading in the Levant seas, for the maintenance of clothing, and woollen manufactures, the venting of lead, tin, and sundry other commodities of this kingdom. Ordered by the Commons in Parliament, that this ordinance be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83288</idno>
+            <idno type="STC">Wing E2068</idno>
+            <idno type="STC">Thomason E36_14</idno>
+            <idno type="STC">ESTC R11841</idno>
+            <idno type="EEBO-CITATION">99859146</idno>
+            <idno type="PROQUEST">99859146</idno>
+            <idno type="VID">111212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111212)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E36[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament; for the upholding the government and fellowship of merchants of England trading in the Levant seas, for the maintenance of clothing, and woollen manufactures, the venting of lead, tin, and sundry other commodities of this kingdom. Ordered by the Commons in Parliament, that this ordinance be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, and are to be sold at his shop in the Middle-Temple,</publisher>
+                  <pubPlace>March 11. 1643. London :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ordinance dated on A2r: 9. Martii, 1643.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Merchants of England Trading to the Levant --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Middle East --  Early works to 1800.</term>
+               <term>Middle East --  Commerce --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111212:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF The Lords and Commons aſſembled in PARLIAMENT; For the upholding the Government and Fellowſhip of Merchants of England Trading in the <hi>LEVANT</hi> Seas, For the maintenance of Clothing, and Wool<g ref="char:EOLhyphen"/>len Manufactures, the venting of LEAD, TIN, and ſundry other Commodi<g ref="char:EOLhyphen"/>ties of this Kingdom.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>ORdered by the Commons in Parliament, That this Ordi<g ref="char:EOLhyphen"/>nance be forthwith printed and publiſhed:</p>
+                     <p>
+                        <hi>H: Elſynge, Cler. Parl. D. Com.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>MARCH 11. 1643. <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and are to be ſold at his ſhop in the Middle-Temple. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:111212:2"/>
+            <pb n="3" facs="tcp:111212:2"/>
+            <opener>
+               <date>9. <hi>Martii,</hi> 1643.</date>
+            </opener>
+            <p>FOr the better encouragement and ſupportation of the Fellowſhip of Merchants of <hi>England</hi> trading in the <hi>LEVANT</hi> Seas; vvhich, beſides the building and maintaining of divers great Ships, both for Defence and Bur<g ref="char:EOLhyphen"/>then, the venting of Kerſies, Sayes, Perpetuanies, and ſeverall other com<g ref="char:EOLhyphen"/>modities, Hath been found very ſer<g ref="char:EOLhyphen"/>viceable and profitable to this State, by advancing Navigation, and tranſport<g ref="char:EOLhyphen"/>ing into Forraigne parts for ſeverall yeers together, above Twenty thou<g ref="char:EOLhyphen"/>ſand Broad-clothes <hi>per Annum,</hi> beſides other commodities dyed and dreſſed
+<pb n="4" facs="tcp:111212:3"/>in their full Manufacture: And for the better Government and Regula<g ref="char:EOLhyphen"/>ting of Trade, eſpecially that of Clo<g ref="char:EOLhyphen"/>thing, whereby the poor people are ſet on work, and the whole Kingdom re<g ref="char:EOLhyphen"/>ceives benefit, The <hi>Lords</hi> and <hi>Commons</hi> in Parliament do Ordain, that the ſaid Fellowſhip of Merchants of <hi>England</hi> trading into the <hi>LEVANT</hi> Seas, ſhall continue and be a Corporation, That they ſhall have the free choice and removall of all Miniſters and Offi<g ref="char:EOLhyphen"/>cers, which are to be by them maintai<g ref="char:EOLhyphen"/>ned either at home or abroad, vvhether they be dignified, or called by the title or name of <hi>Ambaſſadours, Governours, Deputies, Conſulls,</hi> or otherwiſe; And ſhall have power to Leavie Monies on the Members of their Corporation, and Strangers, upon all Goods that
+<pb n="5" facs="tcp:111212:3"/>ſhall be ſhipped in Engliſh Bottomes, as alſo upon all the Goods of Engliſh ſhipped in Strangers Bottomes, which go into or come from the <hi>LEVANT</hi> Seas, for and towards the neceſſary charge and maintenance, and ſupply of their Miniſters, Officers, Govern<g ref="char:EOLhyphen"/>ment. And that the ſaid Fellowſhip ſhall have further power to Leavie ſuch ſum and ſums of Money on the Members of their corporation, and their Goods, as ſhall be advanced for the uſe and be<g ref="char:EOLhyphen"/>nefit of the State, by the Approbation of both Houſes of Parliament.: And that no perſon ſhall bring from, or ſend Goods or ſhips into thoſe parts Limited by their Incorporation, but ſuch as are Free Brothers, or otherwiſe Licenſed by the aforeſaid corporation, or forfei<g ref="char:EOLhyphen"/>ture of the whole, or other leſſer Penal<g ref="char:EOLhyphen"/>tie
+<pb n="6" facs="tcp:111212:4"/>to be impoſed by the ſaid corpora<g ref="char:EOLhyphen"/>tion, on their ſaid Goods or ſhips ſo ſent or traded in unduly.</p>
+            <p>Provided that the ſaid Fellowſhip ſhall not exclude any perſon from his Freedom and Admiſsion into the ſaid Fellowſhip, who ſhall defire it by way of Redemption, if ſuch perſon be a meer Merchant, and otherwiſe capable thereof, and ſhall pay Fifty pounds for the ſame, if he be above the age of twenty ſeve<g ref="char:cmbAbbrStroke">̄</g> yeers, or twenty five pounds if he be under that age, or ſo much leſſe, as their Fellowſhip ſhall think fitting. And that the ſaid Fellowſhip ſhall have power to impoſe a Fine upon any per<g ref="char:EOLhyphen"/>ſon or perſons wilfully contemning, or diſobeying the Order or Orders in matter of Government, ſo as the Fine do not exceed the ſumme of Twenty
+<pb n="7" facs="tcp:111212:4"/>pounds, for any one offence; And in default of payment of ſuch Fine, the ſaid Fellowſhip ſhal have power to diſtrain the Goods of ſuch per<g ref="char:EOLhyphen"/>ſon or perſons ſo fined; And if no ſufficient diſtreſſe can be found, then the ſaid Fellowſhip ſhall have power to impriſon the ſaid perſon or perſons for their ſaid contempt, untill ſuch perſon or perſons ſhal pay ſuch Fine or Fines, or otherwiſe conform themſelves to the Act and Government of the ſaid Fellowſhip; And the ſaid Fellowſhip ſhall have power to give ſuch an Oath or Oaths, to the Officers and Members of their Corporation, as ſhall be approved of by both Houſes of Parliament: Provided that all Rights or Charters granted under the Broad Seal of England or otherwiſe, ſhall be hereby ſaved.</p>
+            <p>And the ſaid Lords and Commons do fur<g ref="char:EOLhyphen"/>ther Ordain, That with all convenient expedi<g ref="char:EOLhyphen"/>tion, a Bill ſhall be prepared, in order to an Act of Parliament to be paſſed in this preſent Parliament, for the further ſettling, and full confirmation of the Priviledges of the ſaid Fellowſhip herein before mentioned, with
+<pb n="8" facs="tcp:111212:5"/>ſuch other clauſes and Proviſions, as ſhall be found expedient by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment; This Ordinance to remain in full force, untill a Bill or Act ſhal be prepared and paſſed according to the intent and true meaning of this Ordinance.</p>
+            <p>
+               <hi>And it is Ordered, that this Ordinance be forthwith Printed and publiſhed, that all Perſons concerned may take notice thereof as appertaineth.</hi>
+            </p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111212:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
